@@ -65,7 +65,7 @@
             </div>
             <!-- Botões -->
                 <div class="d-flex justify-content-end mt-3">
-                    <button onclick="window.location.href='index.php'" class="btn btn-login me-2">Adicione Mais Itens</button>
+                    <button onclick="window.location.href='<?= BASE_URL ?>/index.php'" class="btn btn-login me-2">Adicione Mais Itens</button>
                     <button class="btn btn-login" data-bs-toggle="modal" data-bs-target="#confirmarPedidoModal">Confirmar</button>
                 </div>
         </div>
@@ -91,7 +91,7 @@
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-        <button onclick="window.location.href='index.php'" type="button" class="btn btn-secondary" data-bs-dismiss="modal">Confirmar</button>
+        <button onclick="window.location.href='<?= BASE_URL ?>/index.php'" class="btn btn-login me-2">Confirmar</button>
       </div>
     </div>
   </div>

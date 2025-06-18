@@ -30,7 +30,7 @@
             Total de Vendas
           </div>
           <div class="card-body text-center">
-            <h3>R$ 20,500</h3>
+            <h3>R$ 20.500</h3>
             <p>Total de vendas realizadas no evento</p>
           </div>
         </div>
@@ -42,7 +42,7 @@
             Lucro
           </div>
           <div class="card-body text-center">
-            <h3>R$ 12,300</h3>
+            <h3>R$ 12.300</h3>
             <p>Total de lucro líquido no evento</p>
           </div>
         </div>
@@ -54,7 +54,7 @@
             Custo
           </div>
           <div class="card-body text-center">
-            <h3>R$ 8,200</h3>
+            <h3>R$ 8.200</h3>
             <p>Total de custos com os produtos</p>
           </div>
         </div>

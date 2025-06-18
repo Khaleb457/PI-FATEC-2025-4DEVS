@@ -35,7 +35,7 @@ if (!isset($_SESSION['tipo_usuario'])) {
           <label for="observations1" class="form-label">Observações</label>
           <textarea class="form-control" id="observations1" rows="1"></textarea>
         </div>
-        <button class="btn btn-primary">Adicionar ao Carrinho</button>
+        <button class="btn btn-primary">Adicionar ao Pedido</button>
       </div>
     </div>
   </div>
@@ -63,7 +63,7 @@ if (!isset($_SESSION['tipo_usuario'])) {
           <label for="observations1" class="form-label">Observações</label>
           <textarea class="form-control" id="observations1" rows="1"></textarea>
         </div>
-        <button class="btn btn-primary">Adicionar ao Carrinho</button>
+        <button class="btn btn-primary">Adicionar ao Pedido</button>
       </div>
     </div>
   </div>
@@ -91,7 +91,7 @@ if (!isset($_SESSION['tipo_usuario'])) {
           <label for="observations1" class="form-label">Observações</label>
           <textarea class="form-control" id="observations1" rows="1"></textarea>
         </div>
-        <button class="btn btn-primary">Adicionar ao Carrinho</button>
+        <button class="btn btn-primary">Adicionar ao Pedido</button>
       </div>
     </div>
   </div>
@@ -119,7 +119,7 @@ if (!isset($_SESSION['tipo_usuario'])) {
           <label for="observations1" class="form-label">Observações</label>
           <textarea class="form-control" id="observations1" rows="1"></textarea>
         </div>
-        <button class="btn btn-primary">Adicionar ao Carrinho</button>
+        <button class="btn btn-primary">Adicionar ao Pedido</button>
       </div>
     </div>
   </div>
@@ -147,7 +147,7 @@ if (!isset($_SESSION['tipo_usuario'])) {
           <label for="observations1" class="form-label">Observações</label>
           <textarea class="form-control" id="observations1" rows="1"></textarea>
         </div>
-        <button class="btn btn-primary">Adicionar ao Carrinho</button>
+        <button class="btn btn-primary">Adicionar ao Pedido</button>
       </div>
     </div>
   </div>
@@ -175,7 +175,7 @@ if (!isset($_SESSION['tipo_usuario'])) {
           <label for="observations1" class="form-label">Observações</label>
           <textarea class="form-control" id="observations1" rows="1"></textarea>
         </div>
-        <button class="btn btn-primary">Adicionar ao Carrinho</button>
+        <button class="btn btn-primary">Adicionar ao Pedido</button>
       </div>
     </div>
   </div>
@@ -203,7 +203,7 @@ if (!isset($_SESSION['tipo_usuario'])) {
           <label for="observations1" class="form-label">Observações</label>
           <textarea class="form-control" id="observations1" rows="1"></textarea>
         </div>
-        <button class="btn btn-primary">Adicionar ao Carrinho</button>
+        <button class="btn btn-primary">Adicionar ao Pedido</button>
       </div>
     </div>
   </div>
@@ -231,7 +231,7 @@ if (!isset($_SESSION['tipo_usuario'])) {
           <label for="observations1" class="form-label">Observações</label>
           <textarea class="form-control" id="observations1" rows="1"></textarea>
         </div>
-        <button class="btn btn-primary">Adicionar ao Carrinho</button>
+        <button class="btn btn-primary">Adicionar ao Pedido</button>
       </div>
     </div>
   </div>
@@ -259,7 +259,7 @@ if (!isset($_SESSION['tipo_usuario'])) {
           <label for="observations1" class="form-label">Observações</label>
           <textarea class="form-control" id="observations1" rows="1"></textarea>
         </div>
-        <button class="btn btn-primary">Adicionar ao Carrinho</button>
+        <button class="btn btn-primary">Adicionar ao Pedido</button>
       </div>
     </div>
   </div>
