@@ -1,6 +1,6 @@
 <?php
 // URL base do seu site online
-define("BASE_URL", "/PI-FATEC-2025-4DEVS");
+define("BASE_URL", "https://aula1.free.nf");
 
 // Caminho raiz no servidor (usado para includes e requires)
 define("ROOT_PATH", __DIR__);
